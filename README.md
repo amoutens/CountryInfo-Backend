@@ -18,7 +18,7 @@ The following scripts are available in package.json:
 Environment Variables
 To configure environment variables, create a .env file in the root directory and add necessary values:
 
-# .env file
+# .env.dev file
 PORT=3000
 API_AVAILABLE_COUNTRIES=https://date.nager.at/api/v3/AvailableCountries
 API_COUNTRY_INFO=https://date.nager.at/api/v3/CountryInfo
